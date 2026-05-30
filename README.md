@@ -2,11 +2,13 @@
 
 <div align="center">
 
-<img src="NULL%20INTERNAL/NULL%20INTERNAL.png" width="850">
+<img src="NULL%20INTERNAL/NULL%20INTERNAL.png" width="100%">
+
+<br>
 
 ### Advanced Windows Memory Toolkit
 
-Modern C# WinForms application featuring high-performance memory scanning, hotkey automation, real-time feature management, and a premium animated interface.
+Modern C# WinForms application featuring high-performance memory scanning, pattern scanning, customizable hotkeys, real-time feature management, and a premium animated interface.
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-red?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-C%23-darkred?style=for-the-badge)
@@ -19,9 +21,21 @@ Modern C# WinForms application featuring high-performance memory scanning, hotke
 
 ## 📖 Overview
 
-NULL EXTERNAL is a high-performance Windows application built with C# and WinForms. It combines advanced memory scanning, pattern matching, feature management, customizable hotkeys, and a premium UI experience into a single streamlined tool.
+NULL EXTERNAL is a modern Windows application developed using C# and WinForms. It combines advanced memory scanning, high-speed pattern searching, customizable hotkeys, real-time feature management, and a premium user interface into one optimized package.
 
-Designed with speed, stability, and usability in mind.
+Built for performance, stability, and ease of use.
+
+---
+
+## 🚀 Preview
+
+<p align="center">
+  <img src="NULL%20INTERNAL/NULL%20INTERNAL.png" alt="NULL EXTERNAL Preview" width="100%">
+</p>
+
+<p align="center">
+  <b>NULL EXTERNAL Dashboard</b>
+</p>
 
 ---
 
@@ -30,37 +44,47 @@ Designed with speed, stability, and usability in mind.
 ### 🎯 Core Features
 
 - Advanced Memory Scanner
-- AoB Pattern Scanning
-- Fast Memory Read & Write
-- Real-Time Feature Switching
+- High-Speed AoB Pattern Scanning
+- Memory Read & Write Engine
+- Real-Time Feature Toggle System
+- Emulator Detection
+- Custom Hotkey Manager
+- Keyboard & Mouse Binding
+- Premium Animated UI
+- Async Initialization
 - Multi-Threaded Operations
-- Hotkey Assignment System
-- Automatic Process Detection
-- Premium Particle Background
-- Modern UI Design
-- Async Feature Loading
-
----
 
 ### ⚡ Performance
 
 - Parallel Memory Scanning
-- Optimized Pattern Search
+- Optimized Pattern Matching
 - Low CPU Usage
-- Fast Initialization
-- Thread-Safe Operations
+- Fast Feature Loading
 - Stable Runtime
-
----
+- Thread-Safe Operations
 
 ### 🎨 User Interface
 
 - Modern Guna UI2 Design
-- Animated Particle Effects
+- Animated Particle Background
+- Premium Red Theme
 - Smooth Transitions
 - Responsive Controls
 - Clean Dashboard Layout
-- Premium Red Theme
+
+---
+
+## 🛠 Modules
+
+| Module | Description |
+|----------|-------------|
+| Aimbot | Pattern scanning and memory manipulation |
+| Collider | Advanced memory-based feature system |
+| Fake Lag | Network packet management module |
+| Camera | Runtime memory patching feature |
+| Fast Landing | Dynamic memory replacement system |
+| Hotkey Manager | Keyboard and mouse shortcut system |
+| Particle System | Animated premium dashboard effects |
 
 ---
 
@@ -80,39 +104,10 @@ NULL_EXTERNAL
 ├── Program.cs
 ├── Scan&ReplaceMemory.cs
 │
-├── Assets
-│   └── Dashboard.png
+├── NULL INTERNAL
+│   └── NULL INTERNAL.png
 │
 └── README.md
-```
-
----
-
-## 🚀 Modules
-
-| Module | Description |
-|----------|-------------|
-| Aimbot | Memory pattern scanning engine |
-| Collider | Memory manipulation module |
-| Fake Lag | Packet delay system |
-| Hotkeys | Keyboard & Mouse binding |
-| Camera | Memory replacement feature |
-| Fast Landing | Runtime patching system |
-| Particle System | Animated UI background |
-
----
-
-## 🛠 Technologies
-
-```text
-C#
-.NET
-Windows Forms
-Guna UI2
-Win32 API
-Multithreading
-Async/Await
-Memory Pattern Scanning
 ```
 
 ---
@@ -121,13 +116,13 @@ Memory Pattern Scanning
 
 <div align="center">
 
-<img src="NULL%20INTERNAL/NULL%20INTERNAL.png" width="900">
+<img src="NULL%20INTERNAL/NULL%20INTERNAL.png" width="100%">
 
 </div>
 
 ---
 
-## ⚙️ Installation
+## 🚀 Installation
 
 ### Clone Repository
 
@@ -141,13 +136,19 @@ git clone https://github.com/USERNAME/NULL_EXTERNAL.git
 Visual Studio 2022
 ```
 
-### Build
+### Restore Packages
 
 ```bash
-Build Solution
+Restore NuGet Packages
 ```
 
-### Run
+### Build Solution
+
+```bash
+Build → Build Solution
+```
+
+### Run Application
 
 ```bash
 Run As Administrator
@@ -157,27 +158,57 @@ Run As Administrator
 
 ## 🎮 Hotkeys
 
-Custom keyboard and mouse hotkeys can be assigned directly from the application interface.
+NULL EXTERNAL supports fully customizable hotkeys.
 
-Supported:
+Supported Inputs:
 
 - Keyboard Keys
-- Mouse Buttons
 - Function Keys
+- Mouse Buttons
 - Side Mouse Buttons
+- Custom Key Bindings
+
+Configure hotkeys directly from the dashboard.
+
+---
+
+## ⚙ Technologies
+
+```text
+C#
+.NET
+Windows Forms
+Guna UI2
+Win32 API
+Async/Await
+Multithreading
+Pattern Scanning
+Memory Manipulation
+```
 
 ---
 
 ## 🔥 Highlights
 
-✔ Premium Interface  
-✔ Fast Memory Scanner  
-✔ Real-Time Feature Control  
-✔ Multi-Threaded Architecture  
-✔ Particle Animations  
-✔ Custom Hotkey System  
-✔ Optimized Performance  
-✔ Clean Code Structure  
+✔ Premium Red Interface
+
+✔ High-Speed Pattern Scanner
+
+✔ Advanced Memory Engine
+
+✔ Real-Time Feature Control
+
+✔ Multi-Threaded Architecture
+
+✔ Particle Animation System
+
+✔ Custom Hotkey Manager
+
+✔ Modern Dashboard Design
+
+✔ Optimized Performance
+
+✔ Clean & Maintainable Code
 
 ---
 
@@ -187,7 +218,7 @@ Supported:
 
 # Gaurav
 
-Developer & Creator of NULL EXTERNAL
+Creator of NULL EXTERNAL
 
 </div>
 
@@ -195,19 +226,25 @@ Developer & Creator of NULL EXTERNAL
 
 ## ⭐ Support
 
-If you like this project:
+If you enjoy this project:
 
 ```text
-⭐ Star the repository
-🍴 Fork the project
-📢 Share with others
+⭐ Star the Repository
+🍴 Fork the Project
+📢 Share with Others
 ```
+
+---
+
+## 📜 License
+
+This project is released under the MIT License.
 
 ---
 
 ## ⚠ Disclaimer
 
-This project is provided for educational and research purposes only. Users are responsible for ensuring compliance with all applicable laws, software licenses, and platform terms of service.
+This project is intended solely for educational and research purposes. Users are responsible for ensuring compliance with all applicable laws, software licenses, and platform terms of service.
 
 ---
 
