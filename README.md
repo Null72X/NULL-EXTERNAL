@@ -27,7 +27,7 @@ Built for performance, stability, and ease of use.
 ## 🚀 Preview
 
 <p align="center">
-  <img src="NULL%20INTERNAL/NULL%20INTERNAL.png" alt="NULL EXTERNAL Preview" width="100%">
+  <img src="NULL EXTERNAL/NULL EXTERNAL.png" alt="NULL EXTERNAL Preview" width="100%">
 </p>
 
 <p align="center">
