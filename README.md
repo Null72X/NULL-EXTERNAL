@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="NULL%20EXTERNAL/NULL%20EXTERNAL.png" width="100%">
-
 <br>
 
 # FREE FIRE PANEL
