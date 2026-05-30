@@ -1,9 +1,6 @@
 # 🔥 NULL EXTERNAL
 
 <div align="center">
-
-<img src="NULL%20INTERNAL/NULL%20INTERNAL.png" width="100%">
-
 <br>
 
 ### Advanced Windows Memory Toolkit
